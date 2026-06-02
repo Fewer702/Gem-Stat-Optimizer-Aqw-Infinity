@@ -29,4 +29,6 @@ A lightweight browser tool for **AdventureQuest Worlds: Infinity** that helps yo
 - No internet connection required after the file is opened (icons load from a CDN on first load)
 - Built as a single self-contained HTML file — no install, no dependencies
 
+<img width="887" height="796" alt="image" src="https://github.com/user-attachments/assets/a78c35fe-d2fd-4b12-bf1a-089146305857" />
+
 please enjoy my code :)
