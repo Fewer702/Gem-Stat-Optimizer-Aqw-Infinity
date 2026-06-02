@@ -24,10 +24,9 @@ A lightweight browser tool for **AdventureQuest Worlds: Infinity** that helps yo
 | Wisdom | WIS |
 | Luck | LCK |
 
-## Sharing
-To share or host online, drop `gem_stat_optimizer.html` into [Netlify Drop](https://app.netlify.com/drop) for an instant public link.
-
 ## Notes
 - Local storage saves to the specific browser you use — data won't transfer between browsers or devices
 - No internet connection required after the file is opened (icons load from a CDN on first load)
 - Built as a single self-contained HTML file — no install, no dependencies
+
+please enjoy my code :)
